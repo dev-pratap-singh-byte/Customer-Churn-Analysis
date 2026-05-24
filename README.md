@@ -206,7 +206,8 @@ An interactive Power BI dashboard was developed to present churn insights in a b
 
 # Dashboard Preview
 
-![Dashboard Preview](Customer-Churn-Analysis Dashboard.png)
+<img width="1424" height="803" alt="image" src="https://github.com/user-attachments/assets/684a0497-3d20-44af-8f88-0191d99d77bc" />
+
 
 ---
 
